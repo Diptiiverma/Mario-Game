@@ -5,6 +5,9 @@
 Help Mario collect the maximum number of coins while avoiding enemies and navigating tricky platforms!
 This game combines classic platform mechanics with algorithmic problem-solving to optimize your coin collection strategy.
 
+🎥 Demo Video:
+https://user-images.githubusercontent.com/56497318/127527665-54ae3ff2-7c0f-4595-bf49-3e628765f077.mp4
+
 🚀 Features
 🎲 Dynamic Platforms – Coins and enemies are randomized on each platform, making every run unique.
 🕹️ Player Mechanics – Walk, jump, and fly across platforms with smooth physics.
